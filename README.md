@@ -75,3 +75,8 @@ cypress/
 npm install
 npx cypress open
 ```
+
+---
+
+## 🧩 Presentasi
+https://youtu.be/2qYM1ztOPHY?si=SPJgUV7eAmNELQZd
